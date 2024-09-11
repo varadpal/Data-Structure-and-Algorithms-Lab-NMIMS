@@ -47,7 +47,7 @@ void StackDisplay(){
 
 
 int main() {
-    int choice; 
+    int choice = 1; 
     while (choice != 0) {
         cout << "Choose From Following Stack Operations" << endl; 
         cout << "0. To Exit" << endl; 
